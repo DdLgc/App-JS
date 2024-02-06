@@ -20,11 +20,18 @@ Choisissez l'opération arithmétique souhaitée.
 Cliquez sur "=" pour voir le résultat.
 Utilisez le bouton "C" pour effacer et effectuer un nouveau calcul.
 
-![Capture ](./Calculator/Capture%20d’écran%20(313).png)  
+![Capture ](./Calculator/Capture%20d’écran.png)  
+
+
 ## Guessing game
 ![Capture ]()
+
+
 ## jeux de dés
-![Capture ]()
+![Capture ](./jeux%20de%20dés/images/Capture%20d’écran.png)
+
+
+
 ## Systeme Solaire 
 ### Description
 Cette application interactive présente une représentation visuelle du système solaire. Elle est développée en utilisant SASS pour le stylisme, offrant une expérience utilisateur riche et une interface esthétiquement agréable. L'application fournit des informations détaillées sur chaque planète, y compris leur composition, orbite, et d'autres faits intéressants.
@@ -42,24 +49,63 @@ JavaScript pour les interactions et la dynamique de l'application.
 Clonez le dépôt sur votre machine locale et ouvrez le fichier index.html dans votre navigateur pour explorer le système solaire.
 
 ```bash
-  git clone [https://github.com/DdLgc/App-JS?tab=readme-ov-file]
+  git clone https://github.com/DdLgc/App-JS/tree/master/Systeme-solaire
 ```
 ```bash
   cd Systeme-solaire
 ```
-ouvrir index.html  
+```bash
+open preview index.html
+```
 
 ### Utilisation  
 Lancez l'application dans votre navigateur.
 Naviguez à travers le système solaire en utilisant votre souris ou votre clavier.
 Cliquez sur une planète pour afficher des informations détaillées.
-Profitez de l'exploration spatiale virtuelle !
-Capture d'écran
+Profitez de l'exploration spatiale virtuelle !  
 ![Capture ]()
+
 ## Tamagochi 
-![Capture ]()
+
+### Fonctionnalités clés
+
+États de notre Tamagoshi possibles :
+- 🥚 : partie non lancée
+- 🐣 : naissance tant qu'il n'a pas fait son 1er caca
+Ensuite il devient un "grand" avec une humeur variable
+- 😢 : triste 0/5
+- 🙁 : pas content 1/5
+- 🙂 : normal 2/5
+- 😄 : content 3/5
+- 🤗 : heureux 4/5
+- 🥰 : très heureux 5/5
+- 👻 : mort 0/5 pendant plus d'une minute 
+Ses envies :
+- 😋 : faim, aléatoire minimum 30 sec et max 3 minutes
+- 🥱 : jouer, aléatoire minimum 30 sec et max 3 minutes
+- 💩 : caca, aléatoire minimum 30 sec et max 1.30 minutes après avoir mangé
+
+### Description
+Petit appli JS représentant le célèbre Tamagochi.
+
+### Technologies Utilisées  
+JavaScript pour la logique de calcul.
+HTML/CSS pour la structure et le style de l'interface utilisateur.
+### Installation
+Aucune installation spécifique n'est nécessaire. Ouvrez simplement le fichier index.html dans votre navigateur pour commencer à utiliser le Tamagochi.
+
+### Ameliorations
+
+-> Utiliser les boutons du bas pour se deplacerr avec celui de gauche et de droite
+-> le rendre plus responsive 
+-> ajouté plusieurs envie en meme temps 
+-> ajouté des conditions d'événement (par ex: mangé et faire caca c'est pas propre tu perd un point de propreté)
+
+![Capture ](./Tamagochi/Capture%20d’écran.png)
+
 ## Tic Tac Toe 
 ![Capture ]()
+
 ## Timer copy 
 ![Capture ]()
 
