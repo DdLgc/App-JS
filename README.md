@@ -96,10 +96,10 @@ Aucune installation spécifique n'est nécessaire. Ouvrez simplement le fichier 
 
 ### Ameliorations
 
--> Utiliser les boutons du bas pour se deplacerr avec celui de gauche et de droite
--> le rendre plus responsive 
--> ajouté plusieurs envie en meme temps 
--> ajouté des conditions d'événement (par ex: mangé et faire caca c'est pas propre tu perd un point de propreté)
+-> Utiliser les boutons du bas pour se deplacerr avec celui de gauche et de droite  
+-> rendre l'application plus responsive   
+-> ajouté plusieurs envie en meme temps   
+-> ajouté des conditions d'événement (par ex: mangé et faire caca c'est pas propre tu perd un point de propreté)  
 
 ![Capture ](./Tamagochi/Capture%20d’écran.png)
 
