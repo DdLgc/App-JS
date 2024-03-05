@@ -20,7 +20,7 @@ Choisissez l'opération arithmétique souhaitée.
 Cliquez sur "=" pour voir le résultat.
 Utilisez le bouton "C" pour effacer et effectuer un nouveau calcul.
 
-![Capture ](./Calculator/Capture%20d’écran.png)  
+![Capture ](./Calculator/CaptureEcran.png)  
 
 
 ## Guessing game
@@ -28,7 +28,7 @@ Utilisez le bouton "C" pour effacer et effectuer un nouveau calcul.
 
 
 ## jeux de dés
-![Capture ](./jeux%20de%20dés/images/Capture%20d’écran.png)
+![Capture ](./jeux%20de%20dés/images/CaptureEcran.png)
 
 
 
@@ -101,12 +101,28 @@ Aucune installation spécifique n'est nécessaire. Ouvrez simplement le fichier 
 -> ajouté plusieurs envie en meme temps   
 -> ajouté des conditions d'événement (par ex: mangé et faire caca c'est pas propre tu perd un point de propreté)  
 
-![Capture ](./Tamagochi/Capture%20d’écran.png)
+![Capture ](./Tamagochi/CaptureEcran.png)
 
 ## Tic Tac Toe 
+Tic Tac Toe (aussi connu sous le nom de Morpion) est un jeu classique pour deux joueurs, X et O, qui marquent les cases d'une grille de 3×3. Le joueur qui réussit à placer trois de ses marques dans une rangée horizontale, verticale ou diagonale gagne le jeu.
+### Fonctionnalités clés*Jeu pour deux joueurs: X et O.
+Détection automatique de la victoire: Le jeu détecte et annonce le vainqueur dès qu'un joueur aligne trois marques.  
+Détection du match nul: Si la grille est complète sans vainqueur, le jeu annonce un match nul.  
+Interface utilisateur simple: Une grille de jeu claire avec des indications sur l'état du jeu.  
+Redémarrage du jeu: Possibilité de recommencer une nouvelle partie à tout moment.  
+### Technologies Utilisées  
+HTML: Pour la structure de base de l'application.  
+CSS: Pour le style et la mise en page de l'application.  
+JavaScript: Pour la logique du jeu, y compris la gestion des tours, la détection des victoires et des matchs nuls.  co
+### Installation
+### Ameliorations
 ![Capture ]()
 
 ## Timer copy 
+### Fonctionnalités clés
+### Technologies Utilisées  
+### Installation
+### Ameliorations
 ![Capture ]()
 
 
