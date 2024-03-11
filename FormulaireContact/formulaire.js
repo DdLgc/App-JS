@@ -15,19 +15,19 @@ export default class Formulaire {
   }
 
   maskChamp(id) {
-    this.getDiv(id).classList.add("masque");
+    this.getDiv(id).classList.add('masque');
     this.getElement(id).required = false;
   }
 
   showChamp(id) {
-    this.getDiv(id).classList.remove("disp");
-    this.getDiv(id).classList.add("app");
+    this.getDiv(id).classList.remove('disp');
+    this.getDiv(id).classList.add('app');
     this.getElement(id).required = true;
   }
 
   hideChamp(id) {
-    this.getDiv(id).classList.remove("app ");
-    this.getDiv(id).classList.add("disp ");
+    this.getDiv(id).classList.remove('app');
+    this.getDiv(id).classList.add('disp');
     this.getElement(id).required = false;
   }
 
